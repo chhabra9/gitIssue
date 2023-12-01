@@ -1,1 +1,3 @@
-This Is branch3 code
+This Is branch2 code
+I love coading
+but have little bit of confusion in merge conflict
